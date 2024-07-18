@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 line 1
 line 2
 line 3
 line 4
-=======
 Aya line 1
->>>>>>> 84ca9d316255f893c65514d18480831e1d17688a
+
